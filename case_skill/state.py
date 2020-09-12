@@ -10,4 +10,7 @@ class State(Enum):
     TOP = 4
 
 
+State.AFTER_REG = (State.MENU, State.CHOOSE_OPEN_CASE,
+                   State.CHOOSE_OPEN_CASE, State.OPEN,
+                   State.STATISTICS, State.TOP)
 State.ALL = tuple(State)

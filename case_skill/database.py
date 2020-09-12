@@ -10,12 +10,12 @@ class User(db.Model):
     prohibited = db.Column(db.Integer, unique=False, nullable=False)
     classified = db.Column(db.Integer, unique=False, nullable=False)
     secret = db.Column(db.Integer, unique=False, nullable=False)
-    сontraband = db.Column(db.Integer, unique=False, nullable=False)
+    contraband = db.Column(db.Integer, unique=False, nullable=False)
 
 
     @staticmethod
     def add_new_user(name, user_id):
-        user = User(name=name, user_id=user_id, сontraband=0, all_cases=0,
+        user = User(name=name, user_id=user_id, contraband=0, all_cases=0,
                     army=0, prohibited=0, classified=0, secret=0)
         db.session.add(user)
         db.session.commit()
@@ -44,11 +44,11 @@ class User(db.Model):
 
     @staticmethod
     def get_top():
-        return db.session.query(User).order_by(User.сontraband).all()[::-1]
+        return db.session.query(User).order_by(User.contraband).all()[::-1]
 
     @staticmethod
     def get_statistics(user):
-        return user.all_cases, user.сontraband, user.secret, user.classified, user.prohibited, user.army
+        return user.all_cases, user.contraband, user.secret, user.classified, user.prohibited, user.army
 
 
 if __name__ == '__main__':

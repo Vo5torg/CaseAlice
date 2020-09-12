@@ -1,720 +1,6 @@
 {
   "info": [
     {
-      "name": "AWP - Capillary",
-      "type": "Армейское",
-      "case": "Кейс «Призма 2»",
-      "src": "965417/b6d9eb63498f30bde864",
-      "st": true
-    },
-    {
-      "name": "R8 Revolver - Bone Forged",
-      "type": "Армейское",
-      "case": "Кейс «Призма 2»",
-      "src": "213044/77c31691aab36e6fdfca",
-      "st": true
-    },
-    {
-      "name": "Desert Eagle - Blue Ply",
-      "type": "Армейское",
-      "case": "Кейс «Призма 2»",
-      "src": "1540737/674bc41e24004d0ac434",
-      "st": true
-    },
-    {
-      "name": "AUG - Tom Cat",
-      "type": "Армейское",
-      "case": "Кейс «Призма 2»",
-      "src": "1540737/ea01b7f94a77892ea521",
-      "st": true
-    },
-    {
-      "name": "MP5-SD - Desert Strike",
-      "type": "Армейское",
-      "case": "Кейс «Призма 2»",
-      "src": "1652229/42a26d8de8f52a8e436a",
-      "st": true
-    },
-    {
-      "name": "CZ75-Auto - Distressed",
-      "type": "Армейское",
-      "case": "Кейс «Призма 2»",
-      "src": "1652229/f918ff9cc811cefe3bd7",
-      "st": true
-    },
-    {
-      "name": "Negev - Prototype",
-      "type": "Армейское",
-      "case": "Кейс «Призма 2»",
-      "src": "965417/926e2770f93ea8eae297",
-      "st": true
-    },
-    {
-      "name": "SG 553 - Darkwing",
-      "type": "Запрещенное",
-      "case": "Кейс «Призма 2»",
-      "src": "213044/d547df3ec139f540aed6",
-      "st": true
-    },
-    {
-      "name": "P2000 - Acid Etched",
-      "type": "Запрещенное",
-      "case": "Кейс «Призма 2»",
-      "src": "1521359/42da33f73d63bde4eb41",
-      "st": true
-    },
-    {
-      "name": "SSG 08 - Fever Dream",
-      "type": "Запрещенное",
-      "case": "Кейс «Призма 2»",
-      "src": "937455/a67cde24923321a19085",
-      "st": true
-    },
-    {
-      "name": "SCAR-20 - Enforcer",
-      "type": "Запрещенное",
-      "case": "Кейс «Призма 2»",
-      "src": "937455/6a41f6252e2d6593601f",
-      "st": true
-    },
-    {
-      "name": "Sawed-Off - Apocalypto",
-      "type": "Запрещенное",
-      "case": "Кейс «Призма 2»",
-      "src": "965417/ded082cb130f3ca38994",
-      "st": true
-    },
-    {
-      "name": "MAC-10 - Disco Tech",
-      "type": "Засекреченное",
-      "case": "Кейс «Призма 2»",
-      "src": "965417/b16f7a795d2539cdadda",
-      "st": true
-    },
-    {
-      "name": "AK-47 - Phantom Disruptor",
-      "type": "Засекреченное",
-      "case": "Кейс «Призма 2»",
-      "src": "1540737/442ea5593530587bf4d0",
-      "st": true
-    },
-    {
-      "name": "MAG-7 - Justice",
-      "type": "Засекреченное",
-      "case": "Кейс «Призма 2»",
-      "src": "1652229/eec0590570e98107b10f",
-      "st": true
-    },
-    {
-      "name": "M4A1-S - Player Two",
-      "type": "Тайное",
-      "case": "Кейс «Призма 2»",
-      "src": "1540737/e8c3979e12f8701f5ba0",
-      "st": true
-    },
-    {
-      "name": "Glock-18 - Bullet Queen",
-      "type": "Тайное",
-      "case": "Кейс «Призма 2»",
-      "src": "213044/d2ccc8fa5b00a49af716",
-      "st": true
-    },
-    {
-      "name": "MP5-SD - Acid Wash",
-      "type": "Армейское",
-      "case": "Кейс операции «Расколотая сеть»",
-      "src": "1540737/8d374e7ccfa623fd4686",
-      "st": true
-    },
-    {
-      "name": "Nova - Plume",
-      "type": "Армейское",
-      "case": "Кейс операции «Расколотая сеть»",
-      "src": "213044/04baded8245b0bf673ce",
-      "st": true
-    },
-    {
-      "name": "G3SG1 - Black Sand",
-      "type": "Армейское",
-      "case": "Кейс операции «Расколотая сеть»",
-      "src": "965417/8a1c95e92ddac44056bb",
-      "st": true
-    },
-    {
-      "name": "R8 Revolver - Memento",
-      "type": "Армейское",
-      "case": "Кейс операции «Расколотая сеть»",
-      "src": "1652229/6d3ae5a55a2033513019",
-      "st": true
-    },
-    {
-      "name": "Dual Berettas - Balance",
-      "type": "Армейское",
-      "case": "Кейс операции «Расколотая сеть»",
-      "src": "1652229/edb49e6d69169295e4a1",
-      "st": true
-    },
-    {
-      "name": "SCAR-20 - Torn",
-      "type": "Армейское",
-      "case": "Кейс операции «Расколотая сеть»",
-      "src": "965417/9e8d97a9bfbef6f9f239",
-      "st": true
-    },
-    {
-      "name": "M249 - Warbird",
-      "type": "Армейское",
-      "case": "Кейс операции «Расколотая сеть»",
-      "src": "937455/9671256f9c671b9870fb",
-      "st": true
-    },
-    {
-      "name": "PP-Bizon - Embargo",
-      "type": "Запрещенное",
-      "case": "Кейс операции «Расколотая сеть»",
-      "src": "213044/deee2166b69bf9823e27",
-      "st": true
-    },
-    {
-      "name": "AK-47 - Rat Rod",
-      "type": "Запрещенное",
-      "case": "Кейс операции «Расколотая сеть»",
-      "src": "1540737/f0f38ceea2ffa60be1d9",
-      "st": true
-    },
-    {
-      "name": "AUG - Arctic Wolf",
-      "type": "Запрещенное",
-      "case": "Кейс операции «Расколотая сеть»",
-      "src": "1540737/5198aa0442019108f3c2",
-      "st": true
-    },
-    {
-      "name": "MP7 - Neon Ply",
-      "type": "Запрещенное",
-      "case": "Кейс операции «Расколотая сеть»",
-      "src": "1540737/426ac1af352ad5a7e378",
-      "st": true
-    },
-    {
-      "name": "P2000 - Obsidian",
-      "type": "Запрещенное",
-      "case": "Кейс операции «Расколотая сеть»",
-      "src": "1652229/2af5b2b975f8267f7d67",
-      "st": true
-    },
-    {
-      "name": "Tec-9 - Decimator",
-      "type": "Засекреченное",
-      "case": "Кейс операции «Расколотая сеть»",
-      "src": "213044/f354a39145a8190ccc11",
-      "st": true
-    },
-    {
-      "name": "SG 553 - Colony IV",
-      "type": "Засекреченное",
-      "case": "Кейс операции «Расколотая сеть»",
-      "src": "1540737/1386fc6a3abec2e8e14b",
-      "st": true
-    },
-    {
-      "name": "SSG 08 - Bloodshot",
-      "type": "Засекреченное",
-      "case": "Кейс операции «Расколотая сеть»",
-      "src": "1521359/6eafd7da36ec75c6e62c",
-      "st": true
-    },
-    {
-      "name": "AWP - Containment Breach",
-      "type": "Тайное",
-      "case": "Кейс операции «Расколотая сеть»",
-      "src": "965417/61d4cd56df0d4c76706c",
-      "st": true
-    },
-    {
-      "name": "MAC-10 - Stalker",
-      "type": "Тайное",
-      "case": "Кейс операции «Расколотая сеть»",
-      "src": "965417/b54d01bfc0785038f42b",
-      "st": true
-    },
-    {
-      "name": "FAMAS - Decommissioned",
-      "type": "Армейское",
-      "case": "Кейс «CS20»",
-      "src": "1030494/b580517f86d1f0573f13",
-      "st": true
-    },
-    {
-      "name": "Glock-18 - Sacrifice",
-      "type": "Армейское",
-      "case": "Кейс «CS20»",
-      "src": "1540737/9e44b149995c8427dd32",
-      "st": true
-    },
-    {
-      "name": "Tec-9 - Flash Out",
-      "type": "Армейское",
-      "case": "Кейс «CS20»",
-      "src": "213044/b3df05f15558ffccda4e",
-      "st": true
-    },
-    {
-      "name": "Dual Berettas - Elite 1.6",
-      "type": "Армейское",
-      "case": "Кейс «CS20»",
-      "src": "1521359/6dbe4687163b40112170",
-      "st": true
-    },
-    {
-      "name": "MAC-10 - Classic Crate",
-      "type": "Армейское",
-      "case": "Кейс «CS20»",
-      "src": "965417/48918a41cf6ae56d92c2",
-      "st": true
-    },
-    {
-      "name": "MAG-7 - Popdog",
-      "type": "Армейское",
-      "case": "Кейс «CS20»",
-      "src": "965417/5c219671fcd4ebcef499",
-      "st": true
-    },
-    {
-      "name": "SCAR-20 - Assault",
-      "type": "Армейское",
-      "case": "Кейс «CS20»",
-      "src": "965417/22621bd5636b4f088be5",
-      "st": true
-    },
-    {
-      "name": "MP5-SD - Agent",
-      "type": "Запрещенное",
-      "case": "Кейс «CS20»",
-      "src": "1540737/f9b6479bc5ce5dd8f8c9",
-      "st": true
-    },
-    {
-      "name": "UMP-45 - Plastique",
-      "type": "Запрещенное",
-      "case": "Кейс «CS20»",
-      "src": "213044/6ac8a33d33db44d96c7f",
-      "st": true
-    },
-    {
-      "name": "M249 - Aztec",
-      "type": "Запрещенное",
-      "case": "Кейс «CS20»",
-      "src": "1652229/03036cb7c780e1adb3a4",
-      "st": true
-    },
-    {
-      "name": "Five-SeveN - Buddy",
-      "type": "Запрещенное",
-      "case": "Кейс «CS20»",
-      "src": "1652229/04db3816167a6615a900",
-      "st": true
-    },
-    {
-      "name": "P250 - Inferno",
-      "type": "Запрещенное",
-      "case": "Кейс «CS20»",
-      "src": "965417/d0fdada9ec62111be88b",
-      "st": true
-    },
-    {
-      "name": "P90 - Nostalgia",
-      "type": "Засекреченное",
-      "case": "Кейс «CS20»",
-      "src": "1652229/8e566a8f1efe7b3979b4",
-      "st": true
-    },
-    {
-      "name": "AUG - Death by Puppy",
-      "type": "Засекреченное",
-      "case": "Кейс «CS20»",
-      "src": "937455/49fd6404a7c04402e883",
-      "st": true
-    },
-    {
-      "name": "MP9 - Hydra",
-      "type": "Засекреченное",
-      "case": "Кейс «CS20»",
-      "src": "1540737/32b24b72a255bd48e1e7",
-      "st": true
-    },
-    {
-      "name": "AWP - Wildfire",
-      "type": "Тайное",
-      "case": "Кейс «CS20»",
-      "src": "965417/6f30af9b3493f55ebdc7",
-      "st": true
-    },
-    {
-      "name": "FAMAS - Commemoration",
-      "type": "Тайное",
-      "case": "Кейс «CS20»",
-      "src": "965417/7c657a47783996f4e869",
-      "st": true
-    },
-    {
-      "name": "FAMAS - Crypsis",
-      "type": "Армейское",
-      "case": "Кейс «Призма»",
-      "src": "937455/8cef970816b762c42322",
-      "st": true
-    },
-    {
-      "name": "AK-47 - Uncharted",
-      "type": "Армейское",
-      "case": "Кейс «Призма»",
-      "src": "1540737/c514db5c8ee26a78d278",
-      "st": true
-    },
-    {
-      "name": "MAC-10 - Whitefish",
-      "type": "Армейское",
-      "case": "Кейс «Призма»",
-      "src": "937455/f3a891df46b0fe69fe1e",
-      "st": true
-    },
-    {
-      "name": "Galil AR - Akoben",
-      "type": "Армейское",
-      "case": "Кейс «Призма»",
-      "src": "965417/8acb094d1a41da4e317b",
-      "st": true
-    },
-    {
-      "name": "MP7 - Mischief",
-      "type": "Армейское",
-      "case": "Кейс «Призма»",
-      "src": "937455/1c2e2807330a9843867a",
-      "st": true
-    },
-    {
-      "name": "P250 - Verdigris",
-      "type": "Армейское",
-      "case": "Кейс «Призма»",
-      "src": "965417/34f3905b076fd47381dd",
-      "st": true
-    },
-    {
-      "name": "P90 - Off World",
-      "type": "Армейское",
-      "case": "Кейс «Призма»",
-      "src": "1652229/450eaaea7c618359a4fc",
-      "st": true
-    },
-    {
-      "name": "AWP - Atheris",
-      "type": "Запрещенное",
-      "case": "Кейс «Призма»",
-      "src": "1652229/b09fdd8c58f7b5849f47",
-      "st": true
-    },
-    {
-      "name": "Tec-9 - Bamboozle",
-      "type": "Запрещенное",
-      "case": "Кейс «Призма»",
-      "src": "1030494/7af7e29de8b0513feeac",
-      "st": true
-    },
-    {
-      "name": "Desert Eagle - Light Rail",
-      "type": "Запрещенное",
-      "case": "Кейс «Призма»",
-      "src": "1540737/ade073670bbdc32120e2",
-      "st": true
-    },
-    {
-      "name": "MP5-SD - Gauss",
-      "type": "Запрещенное",
-      "case": "Кейс «Призма»",
-      "src": "1521359/6a3a379670cec768d890",
-      "st": true
-    },
-    {
-      "name": "UMP-45 - Moonrise",
-      "type": "Запрещенное",
-      "case": "Кейс «Призма»",
-      "src": "937455/08f70533b9d5eef2d6b5",
-      "st": true
-    },
-    {
-      "name": "Револьвер R8 - Skull Crusher",
-      "type": "Засекреченное",
-      "case": "Кейс «Призма»",
-      "src": "1652229/596b1c0a6bb9dd585ac6",
-      "st": true
-    },
-    {
-      "name": "AUG - Momentum",
-      "type": "Засекреченное",
-      "case": "Кейс «Призма»",
-      "src": "965417/60e3ddc4bbbed14ddcc7",
-      "st": true
-    },
-    {
-      "name": "XM1014 - Incinegator",
-      "type": "Засекреченное",
-      "case": "Кейс «Призма»",
-      "src": "937455/4d1a29833b13c8d0a110",
-      "st": true
-    },
-    {
-      "name": "Five-SeveN - Angry Mob",
-      "type": "Тайное",
-      "case": "Кейс «Призма»",
-      "src": "965417/8797de3fa1b7cad389a9",
-      "st": true
-    },
-    {
-      "name": "M4A4 - Emperor",
-      "type": "Тайное",
-      "case": "Кейс «Призма»",
-      "src": "965417/c97664b214cf176afc7f",
-      "st": true
-    },
-    {
-      "name": "MP9 - Modest Threat",
-      "type": "Армейское",
-      "case": "Кейс «Запретная зона»",
-      "src": "213044/3238dab0fb3d28502816",
-      "st": true
-    },
-    {
-      "name": "Nova - Wood Fired",
-      "type": "Армейское",
-      "case": "Кейс «Запретная зона»",
-      "src": "937455/81223b3d7f5bf26b0a08",
-      "st": true
-    },
-    {
-      "name": "Sawed-Off - Black Sand",
-      "type": "Армейское",
-      "case": "Кейс «Запретная зона»",
-      "src": "1521359/2370a6a9d6475cbccabc",
-      "st": true
-    },
-    {
-      "name": "SG 553 - Danger Close",
-      "type": "Армейское",
-      "case": "Кейс «Запретная зона»",
-      "src": "1652229/498bb9995c72bde3c979",
-      "st": true
-    },
-    {
-      "name": "Glock-18 - Oxide Blaze",
-      "type": "Армейское",
-      "case": "Кейс «Запретная зона»",
-      "src": "937455/92f6d1c84e7792f618da",
-      "st": true
-    },
-    {
-      "name": "Tec-9 - Fubar",
-      "type": "Армейское",
-      "case": "Кейс «Запретная зона»",
-      "src": "1652229/a63aadb60655f15e0aab",
-      "st": true
-    },
-    {
-      "name": "M4A4 - Magnesium",
-      "type": "Армейское",
-      "case": "Кейс «Запретная зона»",
-      "src": "1540737/c72944601d3524ccc9c1",
-      "st": true
-    },
-    {
-      "name": "MAC-10 - Pipe Down",
-      "type": "Запрещенное",
-      "case": "Кейс «Запретная зона»",
-      "src": "937455/21a16e6d729557189e57",
-      "st": true
-    },
-    {
-      "name": "USP-S - Flashback",
-      "type": "Запрещенное",
-      "case": "Кейс «Запретная зона»",
-      "src": "1540737/a59393cd388fa1cd31a2",
-      "st": true
-    },
-    {
-      "name": "P250 - Nevermore",
-      "type": "Запрещенное",
-      "case": "Кейс «Запретная зона»",
-      "src": "937455/c477bbb25c12d96927d2",
-      "st": true
-    },
-    {
-      "name": "G3SG1 - Scavenger",
-      "type": "Запрещенное",
-      "case": "Кейс «Запретная зона»",
-      "src": "965417/145ce140ac6c8f570a37",
-      "st": true
-    },
-    {
-      "name": "Galil AR - Signal",
-      "type": "Запрещенное",
-      "case": "Кейс «Запретная зона»",
-      "src": "937455/618f11f3143d186c636d",
-      "st": true
-    },
-    {
-      "name": "UMP-45 - Momentum",
-      "type": "Засекреченное",
-      "case": "Кейс «Запретная зона»",
-      "src": "965417/dc78a0072103876b106f",
-      "st": true
-    },
-    {
-      "name": "MP5-SD - Phosphor",
-      "type": "Засекреченное",
-      "case": "Кейс «Запретная зона»",
-      "src": "937455/239141983e797c8148c4",
-      "st": true
-    },
-    {
-      "name": "Desert Eagle - Mecha Industries",
-      "type": "Засекреченное",
-      "case": "Кейс «Запретная зона»",
-      "src": "1540737/686ae2e6c7879240ca1c",
-      "st": true
-    },
-    {
-      "name": "AK-47 - Asiimov",
-      "type": "Тайное",
-      "case": "Кейс «Запретная зона»",
-      "src": "1652229/52bdc7baa069f1f96e05",
-      "st": true
-    },
-    {
-      "name": "AWP - Neo-Noir",
-      "type": "Тайное",
-      "case": "Кейс «Запретная зона»",
-      "src": "965417/3b3cad8faa0d4c24aea2",
-      "st": true
-    },
-    {
-      "name": "AUG - Amber Slipstream",
-      "type": "Армейское",
-      "case": "Кейс «Горизонт»",
-      "src": "1540737/a9c1837af65c261ab121",
-      "st": true
-    },
-    {
-      "name": "Dual Berettas - Shred",
-      "type": "Армейское",
-      "case": "Кейс «Горизонт»",
-      "src": "1652229/984f7e4026012de470a4",
-      "st": true
-    },
-    {
-      "name": "Glock-18 - Warhawk",
-      "type": "Армейское",
-      "case": "Кейс «Горизонт»",
-      "src": "965417/a58304b314e30e849d8f",
-      "st": true
-    },
-    {
-      "name": "MP9 - Capillary",
-      "type": "Армейское",
-      "case": "Кейс «Горизонт»",
-      "src": "1540737/09247a68773fe585f82c",
-      "st": true
-    },
-    {
-      "name": "P90 - Traction",
-      "type": "Армейское",
-      "case": "Кейс «Горизонт»",
-      "src": "1540737/6a078b73dbaa96654822",
-      "st": true
-    },
-    {
-      "name": "Револьвер R8 - Survivalist",
-      "type": "Армейское",
-      "case": "Кейс «Горизонт»",
-      "src": "1652229/72bbd120b9874065fb2e",
-      "st": true
-    },
-    {
-      "name": "Tec-9 - Snek-9",
-      "type": "Армейское",
-      "case": "Кейс «Горизонт»",
-      "src": "937455/9c0cb68dc2d0a1738849",
-      "st": true
-    },
-    {
-      "name": "CZ75-Auto - Эко",
-      "type": "Запрещенное",
-      "case": "Кейс «Горизонт»",
-      "src": "1652229/48ae80d3c6e6c613a2ad",
-      "st": true
-    },
-    {
-      "name": "G3SG1 - High Seas",
-      "type": "Запрещенное",
-      "case": "Кейс «Горизонт»",
-      "src": "1652229/e72356c1333522a1c03a",
-      "st": true
-    },
-    {
-      "name": "Nova - Toy Soldier",
-      "type": "Запрещенное",
-      "case": "Кейс «Горизонт»",
-      "src": "1521359/91042cfd809661ae82b6",
-      "st": true
-    },
-    {
-      "name": "AWP - PAW",
-      "type": "Запрещенное",
-      "case": "Кейс «Горизонт»",
-      "src": "213044/04a5a317aea6b011ae3d",
-      "st": true
-    },
-    {
-      "name": "MP7 - Powercore",
-      "type": "Запрещенное",
-      "case": "Кейс «Горизонт»",
-      "src": "1540737/f7353faf8c61edae6ea7",
-      "st": true
-    },
-    {
-      "name": "M4A1-S - Nightmare",
-      "type": "Засекреченное",
-      "case": "Кейс «Горизонт»",
-      "src": "965417/8d3d0c9d0ac3c6878391",
-      "st": true
-    },
-    {
-      "name": "Sawed-Off - Devourer",
-      "type": "Засекреченное",
-      "case": "Кейс «Горизонт»",
-      "src": "1540737/b2f17e3486ecae6f0c3d",
-      "st": true
-    },
-    {
-      "name": "FAMAS - Eye of Athena",
-      "type": "Засекреченное",
-      "case": "Кейс «Горизонт»",
-      "src": "1652229/60e3d12499a945b9bc87",
-      "st": true
-    },
-    {
-      "name": "AK-47 - Neon Rider",
-      "type": "Тайное",
-      "case": "Кейс «Горизонт»",
-      "src": "965417/1ac88f48e04ad28ec2bb",
-      "st": true
-    },
-    {
-      "name": "Desert Eagle - Code Red",
-      "type": "Тайное",
-      "case": "Кейс «Горизонт»",
-      "src": "1521359/67a9045a521a73d81226",
-      "st": true
-    },
-    {
       "name": "ПП-19 Бизон - Ночной бунт",
       "type": "Армейское",
       "case": "Кейс «Решающий момент»",
@@ -1545,125 +831,6 @@
       "type": "Тайное",
       "case": "Гамма-кейс",
       "src": "965417/95fd6dad8ba3360b1032",
-      "st": true
-    },
-    {
-      "name": "Dual Berettas - Духовики",
-      "type": "Армейское",
-      "case": "Хромированный кейс #3",
-      "src": " ",
-      "st": true
-    },
-    {
-      "name": "Sawed-Off - Ветеран",
-      "type": "Армейское",
-      "case": "Хромированный кейс #3",
-      "src": " ",
-      "st": true
-    },
-    {
-      "name": "G3SG1 - Оранжевые осколки",
-      "type": "Армейское",
-      "case": "Хромированный кейс #3",
-      "src": " ",
-      "st": true
-    },
-    {
-      "name": "P2000 - Океанские мотивы",
-      "type": "Армейское",
-      "case": "Хромированный кейс #3",
-      "src": " ",
-      "st": true
-    },
-    {
-      "name": "MP9 - Утечка отходов",
-      "type": "Армейское",
-      "case": "Хромированный кейс #3",
-      "src": " ",
-      "st": true
-    },
-    {
-      "name": "M249 - Призрак",
-      "type": "Армейское",
-      "case": "Хромированный кейс #3",
-      "src": " ",
-      "st": true
-    },
-    {
-      "name": "SG 553 - Атлас",
-      "type": "Армейское",
-      "case": "Хромированный кейс #3",
-      "src": " ",
-      "st": true
-    },
-    {
-      "name": "CZ75-Auto - Красный ястреб",
-      "type": "Запрещенное",
-      "case": "Хромированный кейс #3",
-      "src": " ",
-      "st": true
-    },
-    {
-      "name": "Tec-9 - Возвращение",
-      "type": "Запрещенное",
-      "case": "Хромированный кейс #3",
-      "src": " ",
-      "st": true
-    },
-    {
-      "name": "Galil AR - Перестрелка",
-      "type": "Запрещенное",
-      "case": "Хромированный кейс #3",
-      "src": " ",
-      "st": true
-    },
-    {
-      "name": "SSG 08 - Призрачный фанатик",
-      "type": "Запрещенное",
-      "case": "Хромированный кейс #3",
-      "src": " ",
-      "st": true
-    },
-    {
-      "name": "XM1014 - Черный галстук",
-      "type": "Запрещенное",
-      "case": "Хромированный кейс #3",
-      "src": " ",
-      "st": true
-    },
-    {
-      "name": "AUG - Скорая стая",
-      "type": "Засекреченное",
-      "case": "Хромированный кейс #3",
-      "src": " ",
-      "st": true
-    },
-    {
-      "name": "P250 - Азимов",
-      "type": "Засекреченное",
-      "case": "Хромированный кейс #3",
-      "src": " ",
-      "st": true
-    },
-    {
-      "name": "UMP-45 - Первобытный саблезуб",
-      "type": "Засекреченное",
-      "case": "Хромированный кейс #3",
-      "src": " ",
-      "st": true
-    },
-    {
-      "name": "M4A1-S - Огонь Чантико",
-      "type": "Тайное",
-      "case": "Хромированный кейс #3",
-      "src": " ",
-      "st": true
-    },
-    {
-      "name": "ПП-19 Бизон - Суд Анубиса",
-      "type": "Тайное",
-      "case": "Хромированный кейс #3",
-      "src": " ",
       "st": true
     },
     {
@@ -3820,14 +2987,6 @@
       "st": true
     },
     {
-      "name": "Охотничий нож - Мраморный градиент",
-      "quality": "knife",
-      "type": "Экстраординарного типа",
-      "case": " ",
-      "src": "965417/a19cc5ef4dca4c29dcac",
-      "st": true
-    },
-    {
       "name": "Охотничий нож - Поверхностная закалка",
       "quality": "knife",
       "type": "Экстраординарного типа",
@@ -3878,14 +3037,6 @@
       "st": true
     },
     {
-      "name": "Нож-бабочка - Ультрафиолет",
-      "quality": "knife",
-      "type": "Экстраординарного типа",
-      "case": " ",
-      "src": "1540737/dafc85ad15bc75db55e4",
-      "st": true
-    },
-    {
       "name": "Нож-бабочка - Градиент",
       "quality": "knife",
       "type": "Экстраординарного типа",
@@ -3927,14 +3078,6 @@
       "type": "Экстраординарного типа",
       "case": "Кейс «Фальшион»",
       "src": "937455/f5355f2b11b2a76bacda",
-      "st": true
-    },
-    {
-      "name": "Фальшион - Кровавая паутина",
-      "quality": "knife",
-      "type": "Экстраординарного типа",
-      "case": " ",
-      "src": "213044/6366e1f529f20666cc42",
       "st": true
     },
     {
@@ -3991,14 +3134,6 @@
       "type": "Экстраординарного типа",
       "case": "Темный кейс",
       "src": "213044/8f3395bc3203241d5789",
-      "st": true
-    },
-    {
-      "name": "Тычковые ножи - Зуб тигра",
-      "quality": "knife",
-      "type": "Экстраординарного типа",
-      "case": " ",
-      "src": "965417/8fd4f1728efa0032df31",
       "st": true
     },
     {
@@ -4171,185 +3306,162 @@
   "cases": [
     {
       "name": "Гамма-кейс #2",
-      "src": "1652229/6c4957efcb0ba29e22d7"
+      "search_words": [
+        "гамма два",
+        "гама два","гамма 2","гама 2"
+      ],
+      "src_out": "1652229/6c4957efcb0ba29e22d7",
+      "src_in": "213044/4001f9910c48bc9e229d",
+      "url": "https://steamcommunity.com/market/search?q=&category_730_ItemSet%5B%5D=tag_set_gamma_2&category_730_ProPlayer%5B%5D=any&category_730_StickerCapsule%5B%5D=any&category_730_TournamentTeam%5B%5D=any&category_730_Weapon%5B%5D=any&appid=730"
     },
     {
       "name": "Гамма-кейс",
-      "src": "213044/f66eab05df57ce1402d7"
+      "search_words": [
+        "гамма",
+        "гама"
+      ],
+      "src_out": "213044/f66eab05df57ce1402d7",
+      "src_in": "213044/3a4dcfd559a0e3f1d2a7",
+      "url": "https://steamcommunity.com/market/search?q=&category_730_ItemSet%5B%5D=tag_set_community_13&category_730_ProPlayer%5B%5D=any&category_730_StickerCapsule%5B%5D=any&category_730_TournamentTeam%5B%5D=any&category_730_Weapon%5B%5D=any&appid=730"
     },
     {
       "name": "Зимний кейс eSports 2013",
-      "src": "1540737/6bb227473334a5a43327"
-    },
-    {
-      "name": "Кейс «Решающий момент»",
-      "src": "937455/d9fbef61945ec1bd1c81"
-    },
-    {
-      "name": "Кейс «Спектр 2»",
-      "src": "1533899/5640368b929ee5bd3d06"
-    },
-    {
-      "name": "Кейс «Спектр»",
-      "src": "1540737/793755d4440d1ef80907"
+      "search_words": [
+        "зимний",
+        "зима"
+      ],
+      "src_out": "1540737/6bb227473334a5a43327",
+      "src_in": "965417/7f09ca6f7e5834bcba1b",
+      "url": "https://steamcommunity.com/market/search?q=&category_730_ItemSet%5B%5D=tag_set_esports_ii&category_730_ProPlayer%5B%5D=any&category_730_StickerCapsule%5B%5D=any&category_730_TournamentTeam%5B%5D=any&category_730_Weapon%5B%5D=any&appid=730"
     },
     {
       "name": "Кейс «Фальшион»",
-      "src": "213044/20bd9c4a9fad88842d48"
+      "search_words": [
+        "фальш",
+        "фальшион"
+      ],
+      "src_out": "213044/20bd9c4a9fad88842d48",
+      "src_in": "997614/c01c855d53c71cd1c05b",
+      "url": "https://steamcommunity.com/market/search?q=&category_730_ItemSet%5B%5D=tag_set_community_8&category_730_ProPlayer%5B%5D=any&category_730_StickerCapsule%5B%5D=any&category_730_TournamentTeam%5B%5D=any&category_730_Weapon%5B%5D=any&appid=730"
     },
     {
       "name": "Кейс операции «Браво»",
-      "src": "1521359/c15973ce945fa984820a"
-    },
-    {
-      "name": "Кейс операции «Гидра»",
-      "src": "213044/0261c509a5d91c0fbd47"
-    },
-    {
-      "name": "Кейс операции «Дикое пламя»",
-      "src": "1540737/3941350acdbcabd649cd"
-    },
-    {
-      "name": "Оружейный кейс CSGO #2",
-      "src": "937455/da19f6a91ca33e33b525"
-    },
-    {
-      "name": "Оружейный кейс CSGO",
-      "src": "1533899/4336b297fb4193776c9a"
-    },
-    {
-      "name": "Оружейный кейс «Winter Offensive»",
-      "src": "1652229/a1bbe2d8ff59e2d7099b"
-    },
-    {
-      "name": "Оружейный кейс операции «Авангард»",
-      "src": "937455/64157015b98ac8367c51"
-    },
-    {
-      "name": "Оружейный кейс операции «Прорыв»",
-      "src": "1540737/9e13698966666eb25811"
-    },
-    {
-      "name": "Оружейный кейс операции «Феникс»",
-      "src": "213044/2380d26f70d1d10a9cb5"
-    },
-    {
-      "name": "Охотничий оружейный кейс",
-      "src": "1652229/eb3991474bf6e79455a8"
-    },
-    {
-      "name": "Перчаточный кейс",
-      "src": "213044/205b4a8897ea1b443714"
-    },
-    {
-      "name": "Револьверный кейс",
-      "src": "937455/9e2815a4efeedad7b210"
-    },
-    {
-      "name": "Темный кейс",
-      "src": "1533899/52ff5339792e77b630d5"
-    },
-    {
-      "name": "Хромированный кейс #2",
-      "src": "965417/18e067220263ad0de006"
-    },
-    {
-      "name": "Хромированный кейс",
-      "src": "965417/cdeb29603738e7868f9f"
-    }
-  ],
-  "cases_in": [
-    {
-      "name": "Гамма-кейс #2",
-      "src": "213044/4001f9910c48bc9e229d"
-    },
-    {
-      "name": "Гамма-кейс",
-      "src": "213044/3a4dcfd559a0e3f1d2a7"
-    },
-    {
-      "name": "Зимний кейс eSports 2013",
-      "src": "965417/7f09ca6f7e5834bcba1b"
-    },
-    {
-      "name": "Кейс «Решающий момент»",
-      "src": "213044/33e5d2faa83a103d4d2d"
-    },
-    {
-      "name": "Кейс «Спектр 2»",
-      "src": "937455/8acf8a4707496c437c7f"
-    },
-    {
-      "name": "Кейс «Спектр»",
-      "src": "937455/3b6011d3ee2e14ba6287"
-    },
-    {
-      "name": "Кейс «Фальшион»",
-      "src": "997614/c01c855d53c71cd1c05b"
-    },
-    {
-      "name": "Кейс операции «Браво»",
-      "src": "937455/a3f88de90c017fd787ae"
-    },
-    {
-      "name": "Кейс операции «Гидра»",
-      "src": "997614/5d608a6bc8611346b3e9"
+      "search_words": [
+        "браво",
+        "брава",
+        "брав"
+      ],
+      "src_out": "1521359/c15973ce945fa984820a",
+      "src_in": "937455/a3f88de90c017fd787ae",
+      "url": "https://steamcommunity.com/market/search?q=&category_730_ItemSet%5B%5D=tag_set_bravo_i&category_730_ProPlayer%5B%5D=any&category_730_StickerCapsule%5B%5D=any&category_730_TournamentTeam%5B%5D=any&category_730_Weapon%5B%5D=any&appid=730"
     },
     {
       "name": "Кейс операции «Дикое пламя»",
-      "src": "1540737/6797c37d12a19563f887"
-    },
-    {
-      "name": "Кейс операции «Расколотая сеть»",
-      "src": "1652229/bedc64b6092445e5de50"
+      "search_words": [
+        "дикое",
+        "пламя"
+      ],
+      "src_out": "1540737/3941350acdbcabd649cd",
+      "src_in": "1540737/6797c37d12a19563f887",
+      "url": "https://steamcommunity.com/market/search?q=&category_730_ItemSet%5B%5D=tag_set_community_11&category_730_ProPlayer%5B%5D=any&category_730_StickerCapsule%5B%5D=any&category_730_TournamentTeam%5B%5D=any&category_730_Weapon%5B%5D=any&appid=730"
     },
     {
       "name": "Оружейный кейс CSGO #2",
-      "src": "965417/9cb55410a34d40978ecb"
-    },
-    {
-      "name": "Оружейный кейс CSGO",
-      "src": "937455/aa0d50843d752242815a"
+      "search_words": [
+        "кс го два","кс 2","кс го 2"
+      ],
+      "src_out": "937455/da19f6a91ca33e33b525",
+      "src_in": "965417/9cb55410a34d40978ecb",
+      "url": "https://steamcommunity.com/market/search?q=&category_730_ItemSet%5B%5D=tag_set_weapons_ii&category_730_ProPlayer%5B%5D=any&category_730_StickerCapsule%5B%5D=any&category_730_TournamentTeam%5B%5D=any&category_730_Weapon%5B%5D=any&appid=730"
     },
     {
       "name": "Оружейный кейс «Winter Offensive»",
-      "src": "213044/9e608549c19ce475d464"
+      "search_words": [
+        "винтер",
+        "winter"
+      ],
+      "src_out": "1652229/a1bbe2d8ff59e2d7099b",
+      "src_in": "213044/9e608549c19ce475d464",
+      "url": "https://steamcommunity.com/market/search?q=&category_730_ItemSet%5B%5D=tag_set_community_1&category_730_ProPlayer%5B%5D=any&category_730_StickerCapsule%5B%5D=any&category_730_TournamentTeam%5B%5D=any&category_730_Weapon%5B%5D=any&appid=730"
     },
     {
       "name": "Оружейный кейс операции «Авангард»",
-      "src": "213044/bd2459e157400413a0fb"
+      "search_words": [
+        "авангард",
+        "авангарды"
+      ],
+      "src_out": "937455/64157015b98ac8367c51",
+      "src_in": "213044/bd2459e157400413a0fb",
+      "url": "https://steamcommunity.com/market/search?q=&category_730_ItemSet%5B%5D=tag_set_community_5&category_730_ProPlayer%5B%5D=any&category_730_StickerCapsule%5B%5D=any&category_730_TournamentTeam%5B%5D=any&category_730_Weapon%5B%5D=any&appid=730"
     },
     {
       "name": "Оружейный кейс операции «Прорыв»",
-      "src": "1652229/b561394bacabbdb56064"
+      "search_words": [
+        "прорыв"
+      ],
+      "src_out": "1540737/9e13698966666eb25811",
+      "src_in": "1652229/b561394bacabbdb56064",
+      "url": "https://steamcommunity.com/market/search?q=&category_730_ItemSet%5B%5D=tag_set_community_4&category_730_ProPlayer%5B%5D=any&category_730_StickerCapsule%5B%5D=any&category_730_TournamentTeam%5B%5D=any&category_730_Weapon%5B%5D=any&appid=730"
     },
     {
       "name": "Оружейный кейс операции «Феникс»",
-      "src": "213044/36a991d363c2bc520b16"
+      "search_words": [
+        "феникс"
+      ],
+      "src_out": "213044/2380d26f70d1d10a9cb5",
+      "src_in": "213044/36a991d363c2bc520b16",
+      "url": "https://steamcommunity.com/market/search?q=&category_730_ItemSet%5B%5D=tag_set_community_2&category_730_ProPlayer%5B%5D=any&category_730_StickerCapsule%5B%5D=any&category_730_TournamentTeam%5B%5D=any&category_730_Weapon%5B%5D=any&appid=730"
     },
     {
       "name": "Охотничий оружейный кейс",
-      "src": "1540737/8a3df105f7e39794fd74"
+      "search_words": [
+        "охота",
+        "охотничий"
+      ],
+      "src_out": "1652229/eb3991474bf6e79455a8",
+      "src_in": "1540737/8a3df105f7e39794fd74",
+      "url": "https://steamcommunity.com/market/search?q=&category_730_ItemSet%5B%5D=tag_set_community_3&category_730_ProPlayer%5B%5D=any&category_730_StickerCapsule%5B%5D=any&category_730_TournamentTeam%5B%5D=any&category_730_Weapon%5B%5D=any&appid=730"
     },
     {
       "name": "Перчаточный кейс",
-      "src": "965417/2acc86db7511e50ce10b"
+      "search_words": [
+        "перчатка",
+        "перчаточный"
+      ],
+      "src_out": "213044/205b4a8897ea1b443714",
+      "src_in": "965417/2acc86db7511e50ce10b",
+      "url": "https://steamcommunity.com/market/search?q=&category_730_ItemSet%5B%5D=tag_set_community_15&category_730_ProPlayer%5B%5D=any&category_730_StickerCapsule%5B%5D=any&category_730_TournamentTeam%5B%5D=any&category_730_Weapon%5B%5D=any&appid=730"
     },
     {
       "name": "Револьверный кейс",
-      "src": "213044/eaa3cd93d8c24f8aaf91"
+      "search_words": [
+        "револьвер",
+        "револьверный"
+      ],
+      "src_out": "937455/9e2815a4efeedad7b210",
+      "src_in": "213044/eaa3cd93d8c24f8aaf91",
+      "url": "https://steamcommunity.com/market/search?q=&category_730_ItemSet%5B%5D=tag_set_community_10&category_730_ProPlayer%5B%5D=any&category_730_StickerCapsule%5B%5D=any&category_730_TournamentTeam%5B%5D=any&category_730_Weapon%5B%5D=any&appid=730"
     },
     {
       "name": "Темный кейс",
-      "src": "213044/3c8072f49e9b9cda905a"
+      "search_words": [
+        "тёмный",
+        "темный",
+        "темно"
+      ],
+      "src_out": "1533899/52ff5339792e77b630d5",
+      "src_in": "213044/3c8072f49e9b9cda905a",
+      "url": "https://steamcommunity.com/market/search?q=&category_730_ItemSet%5B%5D=tag_set_community_9&category_730_ProPlayer%5B%5D=any&category_730_StickerCapsule%5B%5D=any&category_730_TournamentTeam%5B%5D=any&category_730_Weapon%5B%5D=any&appid=730"
     },
     {
       "name": "Хромированный кейс #2",
-      "src": "965417/5c2c81ee9805b0c92584"
-    },
-    {
-      "name": "Хромированный кейс",
-      "src": "1652229/c7746c4237db57cf6c2d"
+      "search_words": [
+        "хрома",
+        "хромиованный"
+      ],
+      "src_out": "965417/18e067220263ad0de006",
+      "src_in": "965417/5c2c81ee9805b0c92584",
+      "url": "https://steamcommunity.com/market/search?q=&category_730_ItemSet%5B%5D=tag_set_community_7&category_730_ProPlayer%5B%5D=any&category_730_StickerCapsule%5B%5D=any&category_730_TournamentTeam%5B%5D=any&category_730_Weapon%5B%5D=any&appid=730"
     }
   ]
 }
